@@ -58,6 +58,7 @@ int main()
 			cout << filename2 << "  " << i << " " << s2 << endl;
 		k = 0;
 	}
+	//закрытие файлов
 	fin1.close();
 	fin2.close();
 	system("pause");

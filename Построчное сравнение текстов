@@ -1,4 +1,4 @@
-#include <iostream>
+п»ї#include <iostream>
 #include <string>
 #include <fstream>
 using namespace std;
@@ -38,7 +38,7 @@ int main(int argc; char* argv[])
 	}
 
 	i = 0;
-
+masterchange
 	while (!fin2.eof())
 	{
 		i++;
@@ -55,7 +55,7 @@ int main(int argc; char* argv[])
 			cout << filename2 << "  " << i << " " << s2 << endl;
 		k = 0;
 	}
-	//закрытие файлов
+	//пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ
 	fin1.close();
 	fin2.close();
 	system("pause");

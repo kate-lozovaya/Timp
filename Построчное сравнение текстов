@@ -60,4 +60,4 @@ masterchange
 	fin2.close();
 	system("pause");
 	return 0;
-}
+} testchange
